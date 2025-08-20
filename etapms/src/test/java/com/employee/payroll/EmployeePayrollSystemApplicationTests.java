@@ -1,10 +1,10 @@
-package com.assignment.etapms;
+package com.employee.payroll;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EtapmsApplicationTests {
+class EmployeePayrollSystemApplicationTests {
 
 	@Test
 	void contextLoads() {
